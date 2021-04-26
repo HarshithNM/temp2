@@ -1,3 +1,3 @@
 #Fill the function sum
-def sum:
+def sum(x):
   
