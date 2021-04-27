@@ -1,3 +1,2 @@
-#don't you dare touch the test_2.py file 
-I'll find you and kill you 
-second.py = ur elixir 
+# Please enter the code in second.py file
+# DO NOT modify test_2.py file
